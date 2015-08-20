@@ -1,0 +1,40 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color:#747704;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    background-color: #BCBBBB;
+}
+
+@media(max-width:767px){
+	.img-center{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.txt-center{
+		text-align: center;
+	}
+}
+
+.text-thick{
+	font-weight: 400;
+}
+
+.text-thin{
+	font-weight: 100;
+}
+
+.title{
+	font-size:60px;
+}
+
+.title-logo{
+	margin-top:20px;
+}
+
+.text-color{
+	color:#BCBBBB;
+}
