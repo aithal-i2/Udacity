@@ -7,7 +7,7 @@
 - Use double quotes for HTML attributes 
   - `<link href='http://fonts.googleapis.com/css?family=Lato:100,400' rel='stylesheet' type='text/css'>` should be `<link href="http://fonts.googleapis.com/css?family=Lato:100,400" rel="stylesheet" type="text/css">`
 - URLs should always be links. 
-  ` Eg. `<p>https://github.com/udacity/appify</p>` should be `<p><a href="https://github.com/udacity/appify" target="_blank">https://github.com/udacity/appify</a></p>`
+  - Eg. `<p>https://github.com/udacity/appify</p>` should be `<p><a href="https://github.com/udacity/appify" target="_blank">https://github.com/udacity/appify</a></p>`
 - External links should always have `targer="_blank"` attribute defined.
 
 ## CSS
