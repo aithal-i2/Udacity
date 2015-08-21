@@ -24,7 +24,7 @@ interactive components(changing some elements)
 - Everything you see on the webpage is a box
 - div tag is used to represent each box
 
-### CSS Syntax:-
+## CSS Syntax:-
 ```
 selector{
 	rules;
@@ -32,15 +32,15 @@ selector{
 ```
 
 ### Types of CSS Selectors:-
-1.ID selector
-2.Class Selector
-3.Tag Selector
-4.Attribute Selector
-5.Positional Selectors
-6.Other Pseudo Selectors
+- ID selector
+- Class Selector
+- Tag Selector
+- Attribute Selector
+- Positional Selectors
+- Other Pseudo Selectors
 
 
-### The Box Model:-
+## The Box Model:-
 - margin-clears area arnd border and does not have background color(is transparent)
 - border-goes arnd the padding
 - padding-clears area arnd content and is affected by the background color
