@@ -1,40 +1,46 @@
-body{
+body 
+{
 	font-family: 'Lato', sans-serif;
-	color:#747704;
+	color: #747704;
 }
 
-hr {
+hr 
+{
     border: none;
     height: 4px;
     background-color: #BCBBBB;
 }
 
-@media(max-width:767px){
-	.img-center{
-		margin-left: auto;
-		margin-right: auto;
+@media(max-width:767px) {
+	.img-center {
+		margin: 0 auto;
 	}
-	.txt-center{
+	.txt-center {
 		text-align: center;
 	}
 }
 
-.text-thick{
+.text-space {
+	margin-left: 1%;
+}
+
+.text-thick
+{
 	font-weight: 400;
 }
 
-.text-thin{
+.text-thin {
 	font-weight: 100;
 }
 
-.title{
-	font-size:60px;
+.title {
+	font-size: 60px;
 }
 
-.title-logo{
-	margin-top:20px;
+.title-logo {
+	margin-top: 20px;
 }
 
-.text-color{
-	color:#BCBBBB;
+.gray-color {
+	color: #BCBBBB;
 }
